@@ -1,0 +1,51 @@
+.html {
+}
+.nav a {
+ color: #515151;
+ font-size: 13px;
+ font-family: tahoma;
+ font-weight: bold;
+ padding: 12px 10px;
+ text-transform: uppercase;
+
+}
+
+.nav li {
+  display: inline;
+
+}
+.jumbotron {
+  height: 650px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: tahoma;
+
+
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 100px;
+}
+.antihate {
+  background-color: #efefef;
+  border-bottom: 1px solid #dbdbdb;
+}
+.antihate h4  {
+  text-align: center;
+  font-family: tahoma;
+}
+.antihate .container {
+  text-align: center;
+  font-family: tahoma;
+}
+.jumbotron a {
+  color: #515151;
+  font-family: tahoma;
+}
+.antihate .thumbnail {
+  background-color: #efefef;
+
+}
+
+}
